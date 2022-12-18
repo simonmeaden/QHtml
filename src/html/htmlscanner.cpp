@@ -1,7 +1,6 @@
-#include "SMLibraries/widgets/html/htmlscanner.h"
+#include "html/htmlscanner.h"
 //#include "SMLibraries/widgets/html.h"
-#include "SMLibraries/utilities/characters.h"
-#include "SMLibraries/widgets/html/htmltypes.h"
+#include "html/htmltypes.h"
 
 //====================================================================
 //=== HtmlScanner
